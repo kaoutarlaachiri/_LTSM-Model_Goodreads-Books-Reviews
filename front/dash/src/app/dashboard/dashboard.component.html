@@ -1,0 +1,18 @@
+<div class="aaa">
+    <div class="main my-5">
+    <input type="checkbox" id="chk" aria-hidden="true">
+
+        <div class="signup p-2">
+            <label for="chk" aria-hidden="true">Predict Book rating</label>
+        
+            <form [formGroup]="form"  (submit)="submit()" >
+                <div class="inputForm1">
+                    <input formControlName="text" type="text" placeholder="Text" required="" class="form-control" >
+                </div>
+            <button type="submit">Submit</button>
+            </form>
+
+        </div>
+    </div>
+
+</div>
