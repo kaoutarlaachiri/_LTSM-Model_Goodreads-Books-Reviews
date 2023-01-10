@@ -5,7 +5,7 @@ In this project, We used the Kaggle GoodReads dataset to train an LSTM model tha
 ## This repository consists of three branches 
 * main : contains the notebook for preprocessing dataset and training the ltsm model
 * front : contains code for front-end of the application
-* back-end : contains the fast-api
+* api : contains the fast-api
 
 
 --------------- 
