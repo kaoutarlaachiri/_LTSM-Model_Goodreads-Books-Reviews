@@ -6,3 +6,8 @@ In this project, We used the Kaggle GoodReads dataset to train an LSTM model tha
 * main : contains the notebook for preprocessing dataset and training the ltsm model
 * front : contains code for front-end of the application
 * back-end : contains the fast-api
+
+
+--------------- 
+For the fast-api you need to download the saved_model folder from this link :
+https://drive.google.com/file/d/1cpqO5goj8a6xEENMVAVC75RWI0g4VFAJ/view?usp=sharing
